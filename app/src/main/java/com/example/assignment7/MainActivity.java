@@ -27,7 +27,7 @@ import org.json.JSONException;
 import org.json.JSONObject;
 
 /*
-En saanut toimimaan kokonaan
+En saanut toimimaan kokonaan!
 
 Ymmärrän (ehkä) idean, että pitäisi tehdä uusi kutsu file url:iin ja
 jotenkin saada tämä sieltä ulos esim Picassoon mutta omat taidot ei riitä
